@@ -1,0 +1,5 @@
+# Password Strength Checker
+# No external dependencies required
+
+# Built with Python Standard Library only
+# Compatible with Python 3.x
